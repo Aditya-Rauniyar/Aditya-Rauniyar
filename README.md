@@ -32,6 +32,8 @@ Building scalable web applications • Solving algorithmic problems • Explorin
 
 🧠 Strong foundation in Data Structures & Algorithms
 
+🏆 Qualified GATE 2026
+
 📚 Proficient in
 
 - Database Management Systems
@@ -160,13 +162,20 @@ A modern developer portfolio showcasing projects, skills, certifications, and te
 
 
 
-
 # 💻 Coding Profiles
 
-<p>
+<p align="center">
 
 <a href="https://leetcode.com/u/Rauni_aadi127/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/adirauni916">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://codolio.com/profile/Adi_Rauniyar">
+<img src="https://img.shields.io/badge/Codolio-1E88E5?style=for-the-badge"/>
 </a>
 
 </p>
@@ -175,23 +184,29 @@ A modern developer portfolio showcasing projects, skills, certifications, and te
 
 # 🌐 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://rauniaadi127.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aditya-rauniyar-410937286/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Aditya-Rauniyar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:adityarauniyar.work@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
+
+
 
 # 💭 Quote
 
