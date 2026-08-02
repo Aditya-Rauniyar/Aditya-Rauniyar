@@ -26,9 +26,9 @@ Building scalable web applications • Solving algorithmic problems • Explorin
 
 # 👨‍💻 About Me
 
-🎓 B.Tech CSE (AI & ML) @ KIET Group of Institutions
+🎓 B.Tech CS @ KIET Group of Institutions
 
-💻 Full Stack Developer specializing in MERN Stack
+💻 Full Stack Web Developer
 
 🧠 Strong foundation in Data Structures & Algorithms
 
@@ -56,7 +56,7 @@ Building scalable web applications • Solving algorithmic problems • Explorin
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css,mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,mysql,mongodb"/>
 
 </p>
 
@@ -66,7 +66,7 @@ Building scalable web applications • Solving algorithmic problems • Explorin
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,tenstack"/>
 
 </p>
 
@@ -76,7 +76,7 @@ Building scalable web applications • Solving algorithmic problems • Explorin
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,docker,firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,clerk,inngest,stream,docker,firebase"/>
 
 </p>
 
@@ -108,23 +108,6 @@ Building scalable web applications • Solving algorithmic problems • Explorin
 
 ---
 
-# 📚 Computer Science Fundamentals
-
-✅ Data Structures & Algorithms
-
-✅ Object-Oriented Programming
-
-✅ Database Management Systems
-
-✅ SQL
-
-✅ Operating Systems
-
-✅ Computer Networks
-
-✅ System Design
-
----
 
 # 🌟 Featured Projects
 
@@ -161,14 +144,9 @@ A modern developer portfolio showcasing projects, skills, certifications, and te
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aditya-Rauniyar&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rauniyar&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aditya-Rauniyar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Rauniyar&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 # 🔥 GitHub Streak
 
