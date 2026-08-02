@@ -1,13 +1,13 @@
 <!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" alt="Banner"/>
+  <img src="[YOUR_BANNER_LINK_HERE](https://chatgpt.com/s/m_6a6ef8c441608191a8dcb7e15e370d10)" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Aditya Rauniyar</h1>
 
 <h3 align="center">
-Full Stack Developer • DSA Enthusiast • System Design Learner
+Full Stack Developer • DSA Enthusiast • System Design
 </h3>
 
 <p align="center">
