@@ -32,7 +32,7 @@ Building scalable web applications • Solving algorithmic problems • Explorin
 
 🧠 Strong foundation in Data Structures & Algorithms
 
-🏆 Qualified GATE 2026
+🏆 Qualified GATE 2026 (Computer Science & Information Technology)
 
 📚 Proficient in
 
@@ -137,11 +137,6 @@ A sustainability platform that tracks carbon emissions and recommends eco-friend
 
 ---
 
-## 🎨 Portfolio
-
-A modern developer portfolio showcasing projects, skills, certifications, and technical journey.
-
----
 
 # 🔥 GitHub Streak
 
@@ -159,7 +154,12 @@ A modern developer portfolio showcasing projects, skills, certifications, and te
 
 ---
 
+# 🏅 Achievements
 
+- 💻 Solved **700+ DSA problems** across LeetCode, GeeksforGeeks, and CodeChef.
+- 🏆 Qualified GATE 2026 (Computer Science & Information Technology)
+- 🚀 Top 4 Finalist - SprintHack 3.0
+- 🌱 Built multiple AI-powered and full-stack web applications.
 
 
 # 💻 Coding Profiles
