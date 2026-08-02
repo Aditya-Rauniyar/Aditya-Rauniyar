@@ -1,7 +1,7 @@
 <!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img src="[https://chatgpt.com/s/m_6a6ef8c441608191a8dcb7e15e370d10]" alt="Banner"/>
+  <img src="./banner.png.png" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Aditya Rauniyar</h1>
