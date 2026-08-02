@@ -76,7 +76,7 @@ Building scalable web applications • Solving algorithmic problems • Explorin
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,clerk,inngest,stream,docker,firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker,firebase"/>
 
 </p>
 
